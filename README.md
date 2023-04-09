@@ -1,7 +1,7 @@
 # [Curso Digital Innovation One](https://web.digitalinnovation.one/home)
 
-## [Veja o site pronto aqui](clone-instagram-dio-patyfil.netlify.app)
+## [Veja o site pronto aqui](https://clone-instagram-dio-patyfil.netlify.app)
 
 ## Instagram
-### Com Gabriela Pinheiro
+### Com a Professora Gabriela Pinheiro
 Recriando a página inicial do instagram
